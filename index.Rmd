@@ -11,6 +11,7 @@ Comment:
 web:
 date: 21 de febrero del 2018
 output:
+
   html_document:
     toc: true
     toc_float: true
@@ -21,6 +22,7 @@ output:
 
 
 1. Ingresar a la página web de QGIS: http://www.qgis.org/ y descargar la última versión de QGIS. Para la presente práctica usaremos la versión 2.18 Las Palmas.
+
 - Opción “Descargar Ahora”
 - Pestaña “Descargas de instalación”
 - Escoger de acuerdo a su sistema operativo (windows, MacOS, Ubuntu/debian)
@@ -50,6 +52,7 @@ Para mas detalles sobre la instalacion [ir a la guia de instalacion](https://Edg
 
 
 ## Datos Vectoriales: Manejo de atributos
+
 8. Seleccionar la capa *ríos* dentro de la Tabla de contenidos.
 9. Hacer click en Abrir tabla de atributos <div align="left"><img src="images/imagen3.png" width=40 height=40></div> en el Menú y controles.
 10. Observar los datos que contiene la capa.
@@ -90,6 +93,7 @@ Para mas detalles sobre la instalacion [ir a la guia de instalacion](https://Edg
 40. Hacer click en <div align="left"><img src="images/imagen9.png" width=40 height=40></div> (cntrl + G), hacer click en <div align="left"><img src="images/imagen10.png" width=40 height=40></div> (cntrl + E). Cerrar la ventana.
 41. Ir a la *barra de herramientas – vectorial – herramientas de geoproceso -> Buffer*.
 42. Establecer *capa vectorial de entrada -> ciudades_clip, seleccionar campo de distancia de buffer -> size_cor*, establecer archivo shape de salida (‘ciudades_buffer’).
+
 
 ## Instalación de Complementos (Plugins)
 43. Ir a la barra de herramientas – Complementos.
