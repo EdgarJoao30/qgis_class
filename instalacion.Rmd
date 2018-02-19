@@ -1,0 +1,47 @@
+---
+title: Introducción al Analisis Espacial con QGIS
+subtitle: Instalación de QGIS
+Project: 
+author:
+- name: Gabriel Carrasco Escobar
+  affiliation: Universidad Peruana Cayetano Heredia
+- name: Edgar Joao Manrique Valverde
+  affiliation: Universidad Peruana Cayetano Heredia
+Comment:
+web: 
+date: 21 de febrero del 2018
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+# Instalación de QGIS
+
+1. Ingresar a la pagina web de QGIS http://www.qgis.org/
+2. Seleccionar la opcion "Descargar ahora"
+<div align="left"><img src="images_download/image1.png" width=500 ></div>
+3. Seleccionar la Pestaña “Descargas de instalación”
+<div align="left"><img src="images_download/image2.png" width=500 ></div>
+4. Escoger de acuerdo a su sistema operativo (windows, MacOS, Ubuntu/debian) y la configuración de su computadora la versión de 32 o 64 bit.
+5. La descarga iniciara automaticamente en la parte baja de su navegador de internet.
+<div align="left"><img src="images_download/image3.png" width=500 ></div>
+6. Al terminar la descarga, hacer click en e instalador y seleccionar "siguiente".
+<div align="left"><img src="images_download/image4.png" width=500 ></div>
+7. Acepte el acuerdo de licencia.
+<div align="left"><img src="images_download/image5.png" width=500 ></div>
+8. Elegir el lugar de destino.
+<div align="left"><img src="images_download/image6.png" width=500 ></div>
+9. Dejar los valores por defecto y seleccionar "Instalar".
+<div align="left"><img src="images_download/image7.png" width=500 ></div>
+<div align="left"><img src="images_download/image8.png" width=500 ></div>
+10. Al terminar la instalacion, hacer click en "Terminar".
+<div align="left"><img src="images_download/image9.png" width=500 ></div>
+11. Se habra creado una carpeta en su escritorio llamada "QGIS 2.18", abrir la carpeta.
+<div align="left"><img src="images_download/image10.png" width=500 ></div>
+12. Abrir la aplicacion "QGIS Desktop 2.18.x".
+<div align="left"><img src="images_download/image11.png" width=500 ></div>
+13. QGIS esta listo para ser utilizado.
+<div align="left"><img src="images_download/image12.png" width=500 ></div>
+14. [ir a la guia de practica](https://EdgarJoao30.github.io/qgis_class/index.html)
